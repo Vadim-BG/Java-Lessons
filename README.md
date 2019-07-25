@@ -1,1 +1,1 @@
-# Java-Lessons for Junior
+# Java-Lessons
