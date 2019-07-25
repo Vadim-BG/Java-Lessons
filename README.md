@@ -1,2 +1,2 @@
-# Java-Lessons
-## 12345
+# Java-Lessons for Junior
+
